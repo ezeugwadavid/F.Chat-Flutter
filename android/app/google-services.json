@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294298464735",
+    "project_id": "flash-chat-f188f",
+    "storage_bucket": "flash-chat-f188f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294298464735:android:0b255006fe491bc2cf146a",
+        "android_client_info": {
+          "package_name": "co.davechat.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294298464735-4qccbgsv1khuhovuholnl4e1ck3upv63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbyup2cH3WNI_h2rXAd5EaCgan82KbgHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294298464735-4qccbgsv1khuhovuholnl4e1ck3upv63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
